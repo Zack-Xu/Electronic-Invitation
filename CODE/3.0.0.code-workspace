@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Administrator/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.0.0"
+		},
+		{
+			"path": "F:/new"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"format": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"ranges": "cpp",
+			"span": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"string_view": "cpp",
+			"new": "cpp",
+			"istream": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
